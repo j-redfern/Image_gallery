@@ -1,0 +1,15 @@
+[
+    {
+        "filepath" : "file:///Users/jennyredfern/Desktop/Photo-gallery/pic1.jpg",
+        "id": "0"
+    },
+    {
+        "filepath" : "/Users/jennyredfern/Desktop/Photo-gallery/pic2.jpg",
+        "id": "1"
+    },
+    {
+        "filepath" : "/Users/jennyredfern/Desktop/Photo-gallery/pic3.jpg",
+        "id": "2"
+
+    }
+]
